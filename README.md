@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # studytime
 
 A new Flutter project.
@@ -20,3 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 Шалгынбай, Сериккаримов
 # Это приложение созданное для студентов чтобы отслеживать учебный процесс.
 >>>>>>> c275749b258b3dfb6fb7a5dfcecf0e6ef009d1a4
+=======
+# StudyTime
+Шалгынбай, Сериккаримов
+
+Это приложение созданное для студентов чтобы отслеживать учебный процесс.
+>>>>>>> ccb8a4414a5856de1badc56c5e3e0a68271b0272
